@@ -1,5 +1,5 @@
 ## Use OGC
-Replace the correspond files of the source code of Pytorch by those files we provided. Note that in other version those files may be in different directories.
+Replace the correspond files of the source code of Pytorch by those files. Note that in other version of Pytorch, those files may be in different directories.
 
 We also provide our script for easy compiling on multi-node environment. (You need to run compile_pytorch.sh on all your machines.) 
 
